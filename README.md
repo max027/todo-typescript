@@ -1,5 +1,5 @@
-# This is a toturial project for next js using typescript
-* This is a toturial project , made to explore nextjs and typescript .
+# This is a tutorial project for next js using typescript
+* This is a tutorial project , made to explore nextjs and typescript .
 
 ## Frontend
 * nextjs
@@ -8,6 +8,7 @@
 
 ## Backend
 * Firebase
+* Firestore
 
 
 
